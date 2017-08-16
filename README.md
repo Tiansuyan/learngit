@@ -2,8 +2,11 @@
 学习git的文件夹
 
 linux 命令
+
 mkdir test （创建文件夹test）
+
 cd test （切换到test目录）
+
 touch a.md （新建a.md文件）
 
 
